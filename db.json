@@ -1,19 +1,14 @@
 {
-  "posts": [
+  "haroi": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "title": "vn",
+      "content": "cvx",
+      "id": 4
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "상현",
+      "content": "그거 맞는데 state",
+      "id": 5
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

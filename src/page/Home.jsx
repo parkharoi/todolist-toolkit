@@ -1,6 +1,13 @@
-import styled from "styled-components";
+import Layout from "../components/home/Layout";
+import Form from "../components/home/Form";
 
 function Home() {
-  return <div>d</div>;
+  return (
+    <div>
+      <Layout>
+        <Form />
+      </Layout>
+    </div>
+  );
 }
 export default Home;

@@ -1,4 +1,10 @@
+import Form from "../components/write/Form";
+
 function Write() {
-  return <div>d</div>;
+  return (
+    <div>
+      <Form />
+    </div>
+  );
 }
 export default Write;
